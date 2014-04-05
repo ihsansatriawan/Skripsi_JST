@@ -1,0 +1,50 @@
+C:\aaaaaa\program\s\JST\JST\bin\Debug\JST.exe
+C:\aaaaaa\program\s\JST\JST\bin\Debug\JST.pdb
+C:\aaaaaa\program\s\JST\JST\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\aaaaaa\program\s\JST\JST\obj\x86\Debug\JST.Properties.Resources.resources
+C:\aaaaaa\program\s\JST\JST\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\aaaaaa\program\s\JST\JST\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\aaaaaa\program\s\JST\JST\obj\x86\Debug\JST.exe
+C:\aaaaaa\program\s\JST\JST\obj\x86\Debug\JST.pdb
+C:\aaaaaa\program\s\JST\JST\bin\Debug\AForge.Controls.dll
+C:\aaaaaa\program\s\JST\JST\bin\Debug\AForge.dll
+C:\aaaaaa\program\s\JST\JST\bin\Debug\AForge.Neuro.dll
+C:\aaaaaa\program\s\JST\JST\bin\Debug\AForge.Video.dll
+C:\aaaaaa\program\s\JST\JST\bin\Debug\AForge.Imaging.dll
+C:\aaaaaa\program\s\JST\JST\bin\Debug\AForge.Genetic.dll
+C:\aaaaaa\program\s\JST\JST\bin\Debug\AForge.Math.dll
+C:\aaaaaa\program\s\JST\JST\bin\Debug\AForge.xml
+C:\aaaaaa\program\s\JST\JST\bin\Debug\AForge.Controls.xml
+C:\aaaaaa\program\s\JST\JST\bin\Debug\AForge.Neuro.xml
+C:\aaaaaa\program\s\JST\JST\bin\Debug\AForge.Video.xml
+C:\aaaaaa\program\s\JST\JST\bin\Debug\AForge.Imaging.xml
+C:\aaaaaa\program\s\JST\JST\bin\Debug\AForge.Genetic.xml
+C:\aaaaaa\program\s\JST\JST\bin\Debug\AForge.Math.xml
+C:\aaaaaa\program\s\JST\JST\obj\x86\Debug\JST.Form1.resources
+C:\aaaaaa\program\s\JST\JST\bin\Debug\HeatonResearchNeural.dll
+C:\aaaaaa\program\s\JST\JST\bin\Debug\HeatonResearchNeural.pdb
+D:\My Documents\Ihsan's Document\skripsi\s\JST\JST\obj\x86\Debug\JST.exe
+D:\My Documents\Ihsan's Document\skripsi\s\JST\JST\obj\x86\Debug\JST.pdb
+D:\My Documents\Ihsan's Document\skripsi\s\JST\JST\bin\Debug\JST.exe
+D:\My Documents\Ihsan's Document\skripsi\s\JST\JST\bin\Debug\JST.pdb
+D:\My Documents\Ihsan's Document\skripsi\s\JST\JST\bin\Debug\AForge.Controls.dll
+D:\My Documents\Ihsan's Document\skripsi\s\JST\JST\bin\Debug\AForge.Neuro.dll
+D:\My Documents\Ihsan's Document\skripsi\s\JST\JST\bin\Debug\HeatonResearchNeural.dll
+D:\My Documents\Ihsan's Document\skripsi\s\JST\JST\bin\Debug\AForge.Video.dll
+D:\My Documents\Ihsan's Document\skripsi\s\JST\JST\bin\Debug\AForge.dll
+D:\My Documents\Ihsan's Document\skripsi\s\JST\JST\bin\Debug\AForge.Imaging.dll
+D:\My Documents\Ihsan's Document\skripsi\s\JST\JST\bin\Debug\AForge.Genetic.dll
+D:\My Documents\Ihsan's Document\skripsi\s\JST\JST\bin\Debug\AForge.Math.dll
+D:\My Documents\Ihsan's Document\skripsi\s\JST\JST\bin\Debug\AForge.Controls.xml
+D:\My Documents\Ihsan's Document\skripsi\s\JST\JST\bin\Debug\AForge.Neuro.xml
+D:\My Documents\Ihsan's Document\skripsi\s\JST\JST\bin\Debug\HeatonResearchNeural.pdb
+D:\My Documents\Ihsan's Document\skripsi\s\JST\JST\bin\Debug\AForge.Video.xml
+D:\My Documents\Ihsan's Document\skripsi\s\JST\JST\bin\Debug\AForge.xml
+D:\My Documents\Ihsan's Document\skripsi\s\JST\JST\bin\Debug\AForge.Imaging.xml
+D:\My Documents\Ihsan's Document\skripsi\s\JST\JST\bin\Debug\AForge.Genetic.xml
+D:\My Documents\Ihsan's Document\skripsi\s\JST\JST\bin\Debug\AForge.Math.xml
+D:\My Documents\Ihsan's Document\skripsi\s\JST\JST\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Ihsan's Document\skripsi\s\JST\JST\obj\x86\Debug\JST.Form1.resources
+D:\My Documents\Ihsan's Document\skripsi\s\JST\JST\obj\x86\Debug\JST.Properties.Resources.resources
+D:\My Documents\Ihsan's Document\skripsi\s\JST\JST\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\My Documents\Ihsan's Document\skripsi\s\JST\JST\obj\x86\Debug\GenerateResource.write.1.tlog
